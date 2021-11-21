@@ -2,23 +2,48 @@
 
 ---
 
-### Um pouco sobre mim...
+<img align='right' src="https://github.com/LopesRebecca/LopesRebecca/blob/main/path6026.png" width="330">
+
+### Um pouco sobre mim...  
 
 - 🔭 Eu sou estudante de Engenharia de Software na UFC
 - 🌱 Gosto de estudar um pouco de tudo, mas a parte Front end é a que mais me chama atenção 
-- 😄 Meus pronomes: ela/dela
+- 😄 Fun: Gosto muito de ler, musica e qualquer tipo de filmes ou series 
 
 ---
 
-## Contado 
+### Mais de mim...
+
+```javascript
+const Rebecca = {
+    pronomes: "Ela" | "Dela",
+    code: ["Javascript", "Java","HTML", "CSS"],
+    aprendendo: ["R", "Go", "Designer", "IHC"],
+    tecnologias: {
+        backEnd: {
+            desenvolvido: ["Java", "R", "Git"],
+        },
+        frontEnd:{
+            desenvolvido: ["HTML", "CSS", "JavaScript", "R", "Git"],
+        },
+    },
+    FocoAtual: "frontEnd", "Java"
+    Diversao: "Livros" , "Musicas", "Filmes e Series"
+};
+```
+---
+
+## Contado  <!--<img height="50" width="50" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-contatos-100.png">-->
 
 <a href="https://www.linkedin.com/in/rebecca-lelis-928878222/"><img src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-linkedin-48.png"></a>
 <a href="https://www.instagram.com/marialopeslelis/"><img src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-instagram-48.png"></a>
 <a href="mailto:marialopeslelis@alu.ufc.br"><img src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-gmail-48.png"></a>
-<a href= "https://discord.com/channels/@me" ><img src= ""></a>
+<a href= "https://discord.com/channels/@me" ><img src= "https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-logo-discord-48.png"></a>
 
+---
   
-  ## Skill
+  ## Skill <!--<img height="50" width="50" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-skills-64.png">-->
+  
   <table><tr><td valign="top" width="33%">
     
 ### Frontend  
@@ -58,11 +83,13 @@
   
   ## Git Star
   
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/LopesRebecca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LopesRebecca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopesRebecca&layout=compact&langs_count=7&theme=radical"/>
     
 </div>
+  
+  
 
   
