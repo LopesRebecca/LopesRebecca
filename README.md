@@ -33,7 +33,7 @@ const Rebecca = {
 ```
 ---
 
-## Contado  <!--<img height="50" width="50" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-contatos-100.png">-->
+## Contato  <!--<img height="50" width="50" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-contatos-100.png">-->
 
 <a href="https://www.linkedin.com/in/rebecca-lelis-928878222/"><img src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-linkedin-48.png"></a>
 <a href="https://www.instagram.com/marialopeslelis/"><img src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-instagram-48.png"></a>
