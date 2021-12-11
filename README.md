@@ -7,7 +7,7 @@
 ### Um pouco sobre mim...  
 
 - 🔭 Eu sou estudante de Engenharia de Software na UFC
-- 🌱 Gosto de estudar um pouco de tudo, mas a parte Front end é a que mais me chama atenção 
+- 🌱 Gosto de estudar de tudo! 
 - 😄 Fun: Gosto muito de ler, musica e qualquer tipo de filmes ou series 
 
 ---
