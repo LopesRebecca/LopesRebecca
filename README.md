@@ -62,7 +62,7 @@ const Rebecca = {
 <img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-git-48.png" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-css3-48.png" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-java-48.png" alt="Java" height="50" /> 
-<!--<img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-r-64.png" alt="R" height="50" /> -->
+<img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-r-64.png" alt="R" height="50" /> 
 
 
 </div>
@@ -71,8 +71,8 @@ const Rebecca = {
     
   ### Designer
 <div align="center">  
-<!-- <img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-adobe-photoshop-48.png" alt="PhotoShop" height="50" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png" alt="Illustrator" height="50" /> -->
+<img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-adobe-photoshop-48.png" alt="PhotoShop" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png" alt="Illustrator" height="50" /> 
 <img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-inkscape-48.png" alt="inkscape" height="50" />  
 <img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-figma-48.png" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://github.com/LopesRebecca/LopesRebecca/blob/main/icons/icons8-canva-app-64.png" alt="Canva" height="50" />
