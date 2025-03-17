@@ -45,18 +45,15 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rebecca-lelis-9
 
 ### Back End
 
-<img src="img/back/cs.png" alt="C#" style="width:80px;"/>
-<img src="img/back/net.png" alt=".net" style="width:80px;"/>
+<img src="img/back/cs.png" alt="C#" style="width:80px;"/> <img src="img/back/net.png" alt=".net" style="width:80px;"/>
 <img src="img/back/python.png" alt=".net" style="width:80px;"/>
 <img src="img/back/js.png" alt="JavaScript" style="width:80px;"/>
 <img src="img/back/rabbimq.png" alt="RabbitMQ" style="width:80px;"/>
 <img src="img/back/hibernate.png" alt="NHIbernate" style="width:80px;"/>
 
-
 ### Front End
 
-<img src="img/front/react.png" alt="React" style="width:80px;"/>
-<img src="img/front/reactBoot.png" alt="ReactBoot" style="width:80px;"/>
+<img src="img/front/react.png" alt="React" style="width:80px;"/> <img src="img/front/reactBoot.png" alt="ReactBoot" style="width:80px;"/>
 <img src="img/front/html.png" alt="HTML" style="width:80px;"/>
 <img src="img/front/css.png" alt="CSS" style="width:80px;"/>
 <img src="img/front/sass.png" alt="SASS" style="width:80px;"/>
@@ -65,8 +62,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rebecca-lelis-9
 
 ### DevOps
 
-<img src="img/devops/docker.png" alt="Docker" style="width:80px;"/>
-<img src="img/devops/kubernetes.png" alt="Kuberetes" style="width:80px;"/>
+<img src="img/devops/docker.png" alt="Docker" style="width:80px;"/> <img src="img/devops/kubernetes.png" alt="Kuberetes" style="width:80px;"/>
 <img src="img/devops/elastic.png" alt="Elastic" style="width:80px;"/>
 <img src="img/devops/git.png" alt="Git" style="width:80px;"/>
 <img src="img/devops/gitAction.png" alt="GitAction" style="width:80px;"/>
@@ -74,18 +70,15 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rebecca-lelis-9
 <img src="img/devops/aws.png" alt="AWS" style="width:80px;"/>
 
 
-
 ### Banco de Dados
-<img src="img/banco/sql.png" alt="SQLServer" style="width:80px;"/>
-<img src="img/banco/postgres.png" alt="PostgreSQL" style="width:80px;"/>
+<img src="img/banco/sql.png" alt="SQLServer" style="width:80px;"/> <img src="img/banco/postgres.png" alt="PostgreSQL" style="width:80px;"/>
 <img src="img/banco/redis.png" alt="Redis" style="width:80px;"/>
 <img src="img/banco/mongo.png" alt="MongoDB" style="width:80px;"/>
 <img src="img/banco/oracle.png" alt="MongoDB" style="width:80px;"/>
 
 
 ### Ferramentas de Desenvolvimento
-<img src="img/ide/vs.png" alt="VisualStudio" style="width:80px;"/>
-<img src="img/ide/vscode.png" alt="VisualStudioCode" style="width:80px;"/>
+<img src="img/ide/vs.png" alt="VisualStudio" style="width:80px;"/> <img src="img/ide/vscode.png" alt="VisualStudioCode" style="width:80px;"/>
 <img src="img/ferramentas/postman.png" alt="Postman" style="width:80px;"/>
 <img src="img/devops/azure.png" alt="AzureDevOps" style="width:80px;"/>
 
