@@ -7,6 +7,9 @@
 - 💼 Trabalhando como Developer Fullstack .Net na Trinks.
 - 🌱 Aprendendo mais sobre .Net e arquitetura.
 
+## Onde me encontrar
+
+
 ## Experiência
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -40,46 +43,62 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rebecca-lelis-9
 
 ## Minhas Skills
 
-EM BREVE...
-<!-- 
-**Aplicações e dados**
+### Back End
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<img src="img/back/cs.png" alt="C#" style="width:80px;"/>
+<img src="img/back/net.png" alt=".net" style="width:80px;"/>
+<img src="img/back/python.png" alt=".net" style="width:80px;"/>
+<img src="img/back/js.png" alt="JavaScript" style="width:80px;"/>
+<img src="img/back/rabbimq.png" alt="RabbitMQ" style="width:80px;"/>
+<img src="img/back/hibernate.png" alt="NHIbernate" style="width:80px;"/>
 
-**Utilidades**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+### Front End
 
-**DevOps**
+<img src="img/front/react.png" alt="React" style="width:80px;"/>
+<img src="img/front/reactBoot.png" alt="ReactBoot" style="width:80px;"/>
+<img src="img/front/html.png" alt="HTML" style="width:80px;"/>
+<img src="img/front/css.png" alt="CSS" style="width:80px;"/>
+<img src="img/front/sass.png" alt="SASS" style="width:80px;"/>
+<img src="img/front/k.png" alt="Knockout" style="width:80px;"/>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+### DevOps
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+<img src="img/devops/docker.png" alt="Docker" style="width:80px;"/>
+<img src="img/devops/kubernetes.png" alt="Kuberetes" style="width:80px;"/>
+<img src="img/devops/elastic.png" alt="Elastic" style="width:80px;"/>
+<img src="img/devops/git.png" alt="Git" style="width:80px;"/>
+<img src="img/devops/gitAction.png" alt="GitAction" style="width:80px;"/>
+<img src="img/devops/power.png" alt="PowerSheell" style="width:80px;"/>
+<img src="img/devops/aws.png" alt="AWS" style="width:80px;"/>
+
+
+
+### Banco de Dados
+<img src="img/banco/sql.png" alt="SQLServer" style="width:80px;"/>
+<img src="img/banco/postgres.png" alt="PostgreSQL" style="width:80px;"/>
+<img src="img/banco/redis.png" alt="Redis" style="width:80px;"/>
+<img src="img/banco/mongo.png" alt="MongoDB" style="width:80px;"/>
+<img src="img/banco/oracle.png" alt="MongoDB" style="width:80px;"/>
+
+
+### Ferramentas de Desenvolvimento
+<img src="img/ide/vs.png" alt="VisualStudio" style="width:80px;"/>
+<img src="img/ide/vscode.png" alt="VisualStudioCode" style="width:80px;"/>
+<img src="img/ferramentas/postman.png" alt="Postman" style="width:80px;"/>
+<img src="img/devops/azure.png" alt="AzureDevOps" style="width:80px;"/>
+
 
 <br/>
 
+<!--
 <a href="https://github.com/LopesRebecca" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-<!-- [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecca-lelis-928878222/)](https://www.linkedin.com/in/rebecca-lelis-928878222/)
+ [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecca-lelis-928878222/)](https://www.linkedin.com/in/rebecca-lelis-928878222/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)*/
