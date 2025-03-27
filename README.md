@@ -83,5 +83,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rebecca-lelis-9
 <br/>
 
 ## Contato
-[<img  style="width:80px;" alt="Gmail" src="img/contatos/gmail.png"/>](marialopeslelis@gmail.com)
 [<img  style="width:80px;" alt="LinkedIn" src="img/contatos/likedln.png"/>](https://www.linkedin.com/in/rebecca-lelis-928878222/)
