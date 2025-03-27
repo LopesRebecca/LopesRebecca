@@ -7,9 +7,6 @@
 - 💼 Trabalhando como Developer Fullstack .Net na Trinks.
 - 🌱 Aprendendo mais sobre .Net e arquitetura.
 
-## Onde me encontrar
-
-
 ## Experiência
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -85,13 +82,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rebecca-lelis-9
 
 <br/>
 
-<!--
-<a href="https://github.com/LopesRebecca" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
-## Onde me encontrar
-
- [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecca-lelis-928878222/)](https://www.linkedin.com/in/rebecca-lelis-928878222/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)*/
+## Contato
+[<img  style="width:80px;" alt="Gmail" src="img/contatos/gmail.png"/>](marialopeslelis@gmail.com)
+[<img  style="width:80px;" alt="LinkedIn" src="img/contatos/likedln.png"/>](https://www.linkedin.com/in/rebecca-lelis-928878222/)
